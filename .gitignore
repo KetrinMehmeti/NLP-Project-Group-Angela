@@ -1,1 +1,2 @@
-.venv/biobert_embeddings.npy 
+.venv/
+biobert_embeddings.npy
