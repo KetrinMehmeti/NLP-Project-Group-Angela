@@ -50,7 +50,7 @@ particular problem, but you do need to train some model(s) on the data:
     - if possible, try to fine-tune a pretrained models on the same task and compare their performance;
     - try an LLM on the task, comparing one, few and zero-shot performance;
     - and perhaps even try to fine-tune a small LLM on the task (if it makes sense to do so).
-    
+
 3. Possible extensions:
 Depending on the dataset chosen there will be many additional investigations that you could perform,
 for example:
