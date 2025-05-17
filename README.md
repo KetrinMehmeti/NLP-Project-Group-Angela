@@ -54,7 +54,7 @@ particular problem, but you do need to train some model(s) on the data:
 3. Possible extensions:
 Depending on the dataset chosen there will be many additional investigations that you could perform,
 for example:
-    • investigate another task on the same dataset,
-    • investigate the same task on a related dataset,
-    • use text-to-speech and speech-to-text models to create a voice interactive chatbot,
-    • create your own dialog dataset by transcribing audio conversations (e.g. using MS Teams).
+    - investigate another task on the same dataset,
+    - investigate the same task on a related dataset,
+    - use text-to-speech and speech-to-text models to create a voice interactive chatbot,
+    - create your own dialog dataset by transcribing audio conversations (e.g. using MS Teams).
