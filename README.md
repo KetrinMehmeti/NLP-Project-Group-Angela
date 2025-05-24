@@ -1,5 +1,5 @@
 # Introduction
- 
+
 The PubMedQA dataset is an innovative resource for question answering (QA) in the biomedical field, created from abstracts of scientific articles available on PubMed. The main purpose of PubMedQA is to assess the reasoning and inference abilities of intelligent systems on natural language, particularly within the context of biomedical research texts, which often require the processing of quantitative content.
 
 A typical instance in PubMedQA consists of the following components:
